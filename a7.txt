@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head> Taisiya Lebedeva </head>
+	<style>
+	  head { 
+			font-size: 25px;
+		}
+		</style>
+		
+<style>
+  body { 
+		background: url('myimages/333.jpg');
+		color: blanchedalmond; 
+		font-family:helvetica;
+	}
+	</style>
+	<title> Taisiya Lebedeva </title>
+	<body>
+<img src="myimages/111.jpg" width="300" height="200" alt="100">es/111.jpg">
+<style>
+img { position:center
+	}
+	</style>
+
+  <div class="nav">
+   <div class="container">
+	<ul>
+	  <li>22 years old</li>
+	  <li>3rd year Commerce degree, Major in Accounting and Marketing</li>
+	</ul>
+	</div>
+   </div>
+  <div class="jumbotron">
+   <div class="container">
+ <h1>About</h1>
+ <p>I am originally from Russia, have moved to Australia 5 years ago and have been in love with this country since. I am currently in my last semester of undergraduate degree majoring in Marketing and Accounting at Melbourne University. I am planning to continue my studies in postgraduate program in a related field.</p>
+ </div>
+</div>
+ <div class="learn-more">
+  <div class="container">
+<h3>Education</h3>
+<ul>
+  <li>March 2013 Tertiary Education- 2015, Melbourne University, Bachelor of Commerce</li>
+  <li>February 2011 – Dec 2012 Secondary Education</li>
+  <li>September 2007-2010 Secondary Education </li>
+  <li>September 2000- 2007 Primary/Secondary Education</li>
+</ul>
+  </div>
+ </div>
+ <p> <a href="#file:///Users/taisia/Desktop/other1.html#file:///Users/taisia/Desktop/a7.html">Refer to my academic transcript and other certificates </a> </p>
+ <div> 
+	<style> h3 {text-align:center;
+		}
+		p {color:darkslategrey;}
+	</style>
+<h3>Employment and volunteering history</h3>
+
+ <p>My main employment and volunteering experience is in hospitality field</p>
+ <ul>
+  <li>Volunteer work for SALE organization
+	<ol>Kitchen service and tutoring with children</li>
+	<ol>Period: June 2011- August 2012</li>
+</li>Volunteer work for Legacy Australia organization; Period: 2011 </li>
+  <li>Volunteer at Queenscliff Music Festival;Period: 2014 </li>
+  <li>Customer service and retail assistant at 2pocket Fairtrade shop; Period: 2014 </li>
+  <li>Customer service at Charlie Lovett restaurant, South Wharf; Period: 2013 </li>
+</ul>
+ </div>
+ <div>
+ <h3>Key skills:</h3>
+<li>Excellent organizational skills with the ability to self manage and meet deadlines</li>
+  <li>Sound communication and interpersonal skills</li>
+  <li>RSA certificate </li>
+  <li>Enjoy working in teams as well as working independently</li>
+  <li>Bilingual (Fluent in Russian, both written and spoken)</li>
+  <li>Confident in my abilities of strategic planning and analytical skills</li>
+  <li>Advanced knowledge of Microsoft Word, Powerpoint </li>
+<h3>Personal interests:</h3>
+  <li>Visual artist </li>
+  <li>Boxing and Kickboxing</li>
+  <li>Art-house films</li>
+  <li>Singing and song writing</li>
+<h4>Contact:</h4>
+ <p> To contact me please send me an email to taisiyaswan@gmail.com or leave yours </p>
+<input type="email" placeholder="Your Name">
+ <input type="sumbit" placeholder="Your Surname">
+<input type="email" placeholder="Your email">
+	<style>
+	  input { 
+		border: 0;
+		padding:10px;
+		font-size:15px;
+		}
+		input [type="submit"} {
+			background: wheat;
+			color:rosybrown;
+		}
+		</style>
+ </body>
+</html>
